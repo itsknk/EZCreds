@@ -13,4 +13,5 @@ A simple chrome extension password manager, written for the final year project.
 2. Adding Auto grab and fill.
 3. Password Generation.
 
+## License
 [MIT](https://github.com/itsknk/EZCreds/blob/master/LICENSE)
